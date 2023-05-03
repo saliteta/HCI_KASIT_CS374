@@ -9,3 +9,7 @@ pip install openai
 pip install gradio
 ```
 - Result
+
+<p align="center">
+  <img src="./src/temp.jpg" alt="violet" width = "400">
+</p>
