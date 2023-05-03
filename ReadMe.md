@@ -11,5 +11,5 @@ pip install gradio
 - Result
 
 <p align="center">
-  <img src="./src/temp.jpg" alt="violet" width = "400">
+  <img src="./src/temp.jpg" alt="violet" width = "800">
 </p>
